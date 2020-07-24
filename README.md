@@ -35,10 +35,10 @@ Hi, I'm Thijs van Tol, a student at University Of Applied Sciences Inholland in 
 </details>
 </br>
 </br>
-<a href="https://github.com/thijsvtol/thijsvtol/raw/master/CV%20Thijs%20van%20Tol.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a> 
-<a href="https://www.linkedin.com/in/thijsvantol/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-<a href="https://www.instagram.com/thijsvtol/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-<a href="https://www.facebook.com/vantol.thijs"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> 
-<a href="https://www.stackoverflow.com/users/10330378/thijs-van-tol"><img src="https://img.shields.io/badge/Stackoverflow-F48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt="Stackoverflow"></a> 
+<a href="https://github.com/thijsvtol/thijsvtol/raw/master/CV%20Thijs%20van%20Tol.pdf" target="_blank"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a> 
+<a href="https://www.linkedin.com/in/thijsvantol/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://www.instagram.com/thijsvtol/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<a href="https://www.facebook.com/vantol.thijs" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> 
+<a href="https://www.stackoverflow.com/users/10330378/thijs-van-tol" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-F48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt="Stackoverflow"></a> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thijsvtol&show_icons=true&count_private=true)
