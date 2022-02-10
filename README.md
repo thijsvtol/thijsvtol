@@ -31,7 +31,6 @@ Hi, I'm Thijs van Tol, a student at University Of Applied Sciences Inholland in 
 <a href="https://github.com/thijsvtol/thijsvtol/raw/master/CV_Thijs_van_Tol.pdf" target="_blank"><img src="https://img.shields.io/badge/🔽_My_CV-002366?&style=flat-square"/></a> 
 <a href="https://www.linkedin.com/in/thijsvantol/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 <a href="https://www.instagram.com/thijsvtol/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-<a href="https://www.facebook.com/vantol.thijs" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> 
 <a href="https://www.stackoverflow.com/users/10330378/thijs-van-tol" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-F48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt="Stackoverflow"></a> 
 
 ![](https://hit.yhype.me/github/profile?user_id=43065692)
