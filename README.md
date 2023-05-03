@@ -1,6 +1,6 @@
-# 🖥 DevOps Engineer
+# 🖥 SRE Engineer
 ![](https://komarev.com/ghpvc/?username=thijsvtol)  
-Hi, I'm Thijs van Tol, a DevOps engineer @ Albert Heijn.
+Hi, I'm Thijs van Tol, a SRE engineer @ Albert Heijn.
 
 ## I am passionate about:
 
